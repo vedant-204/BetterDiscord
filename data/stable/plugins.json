@@ -1,0 +1,18 @@
+{
+    "ZeresPluginLibrary": true,
+    "XenoLib": true,
+    "ImageUtilities": true,
+    "InvisibleTyping": true,
+    "MessageLoggerV2": true,
+    "BDFDB": true,
+    "ShowHiddenChannels": true,
+    "DoubleClickToEdit": true,
+    "PermissionsViewer": true,
+    "BetterImageViewer": true,
+    "FreeEmojis": false,
+    "Freemoji": true,
+    "DiscordNitroScreenShare": true,
+    "NitroPerks": true,
+    "NitroEmoteAndScreenShareBypass": true,
+    "ShowAllActivities": true
+}
